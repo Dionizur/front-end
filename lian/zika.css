@@ -18,6 +18,7 @@ p{
     font-style: italic;
     color:white;
     text-align: center;
+    font-size: x-large;
 }
 nav{
     border-radius: 4px;
@@ -54,5 +55,15 @@ a{
     width: 520px;
     border: solid rgb(245, 255, 153);
 }
-
+.mama{
+    height: 400px;
+    width: 700px;
+    border: solid rgb(245, 255, 153);
+}
+.butao{
+    font-style: italic;
+    color:black;
+    text-align:center;
+    font-size: x-large;
+}
 
