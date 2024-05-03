@@ -49,5 +49,10 @@ a{
     padding-left: 15px;
     padding-right: 15px;
 }
+.blas{
+    height: 400px;
+    width: 520px;
+    border: solid rgb(245, 255, 153);
+}
 
 
