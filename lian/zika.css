@@ -67,5 +67,33 @@ a{
     height:60;
     margin-left: 15;
 }
+.log{
+    background-color: rgb(245, 255, 153);
+    border: 3px solid #000;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+}
+.llog{
+    background-color: rgb(90, 90, 90);
+    border: 3px solid #000;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10px;
+}
+label{
+    text-align: start;
+    font-style: italic;
+    color:white;
+    text-align: center;
+    font-size:x-large;
+
+}
+.llog input{
+    display: flex;
+    flex-direction:column ;
+}
 
 
