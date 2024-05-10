@@ -18,7 +18,7 @@ p{
     font-style: italic;
     color:white;
     text-align: center;
-    font-size: x-large;
+    font-size:x-large;
 }
 nav{
     border-radius: 4px;
@@ -55,15 +55,17 @@ a{
     width: 520px;
     border: solid rgb(245, 255, 153);
 }
-.mama{
-    height: 400px;
-    width: 700px;
-    border: solid rgb(245, 255, 153);
+.but{
+    color:#000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
 }
-.butao{
-    font-style: italic;
-    color:black;
-    text-align:center;
-    font-size: x-large;
+.ran button{
+    width:150; 
+    height:60;
+    margin-left: 15;
 }
+
 
